@@ -12,6 +12,7 @@
 		A74AFEDB22DCB6B0003BA0D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A74AFED922DCB6B0003BA0D9 /* Main.storyboard */; };
 		A74AFEDD22DCB6B3003BA0D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A74AFEDC22DCB6B3003BA0D9 /* Assets.xcassets */; };
 		A74AFEE022DCB6B3003BA0D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A74AFEDE22DCB6B3003BA0D9 /* LaunchScreen.storyboard */; };
+		A74AFEE822DCB6D1003BA0D9 /* SpinnerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A74AFEE722DCB6D1003BA0D9 /* SpinnerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A74AFEDC22DCB6B3003BA0D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A74AFEDF22DCB6B3003BA0D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A74AFEE122DCB6B3003BA0D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A74AFEE722DCB6D1003BA0D9 /* SpinnerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinnerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A74AFED522DCB6B0003BA0D9 /* AppDelegate.swift */,
 				A74AFED722DCB6B0003BA0D9 /* ViewController.swift */,
+				A74AFEE722DCB6D1003BA0D9 /* SpinnerViewController.swift */,
 				A74AFED922DCB6B0003BA0D9 /* Main.storyboard */,
 				A74AFEDC22DCB6B3003BA0D9 /* Assets.xcassets */,
 				A74AFEDE22DCB6B3003BA0D9 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A74AFED822DCB6B0003BA0D9 /* ViewController.swift in Sources */,
+				A74AFEE822DCB6D1003BA0D9 /* SpinnerViewController.swift in Sources */,
 				A74AFED622DCB6B0003BA0D9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
